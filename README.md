@@ -20,6 +20,6 @@ Junior QA engineer, my objective is make the product better every day for users 
 #### Education
 
 - Limited Liability Company «Netology»    08.09.22-present
-     <QA Engineer, training course>
+     QA Engineer, training course
 - South Ural State University   
    Master of Sciens
